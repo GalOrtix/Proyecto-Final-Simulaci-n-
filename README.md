@@ -18,8 +18,7 @@ El objetivo es identificar cuellos de botella, dimensionar la capacidad de servi
 * **Software de Simulación:** ProModel 2016
 * **Ajuste de Distribuciones:** Stat::Fit
 * **Base de Datos:** Datos reales de llegadas y tiempos de servicio recopilados en campo.
-* **Modelo Teórico:** M/M/S (Multi-servidor)
-* **Métricas Clave:** Longitud de cola ($\text{L}_q$), tiempo de espera en cola ($\text{W}_q$), y utilización de servidores ($\rho$).
+* **Modelo Teórico:** M/M/S.
 
 ## 📂 Estructura del Repositorio
 
@@ -30,11 +29,6 @@ El objetivo es identificar cuellos de botella, dimensionar la capacidad de servi
 | `/estudio` | Documentación del proyecto desarrollado. | `Proyecto_Final_Simulacion_IEEE.pdf` |
 | `/promodel` | Archivos fuente del modelo de simulación ProModel. | `Cine_Modelo.mod`, `Cine_Modelo.bak` |
 | `README.md` | (Este archivo) Descripción y guía del proyecto. | |
-
-## 🚀 Resultados Clave
-
-* **Identificación de cuellos de botella:** Se determinó que la [Taquilla / Dulcería] es el área con mayor tiempo medio de espera.
-* **Propuesta de mejora:** Se sugiere incrementar la capacidad de servidores en [Área] a $s=2$ (taquilla) y $m=3$ (dulcería), lo que reduce el $\text{W}_q$ en un $\text{X}\%$ según la simulación.
 
 ---
 
