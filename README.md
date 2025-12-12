@@ -23,12 +23,13 @@ El objetivo es identificar cuellos de botella, dimensionar la capacidad de servi
 
 ## 📂 Estructura del Repositorio
 
-| Directorio/Archivo | Contenido |
-| :--- | :--- |
-| `/doc` | Documentación formal del proyecto (artículo LaTeX, presentaciones). |
-| `/datos` | Archivos de datos brutos y ajustados (muestreos, resultados de Stat::Fit). |
-| `/promodel` | Archivos fuente de ProModel (`.MOD`, `.MCD`, reportes de salida). |
-| `README.md` | (Este archivo) Descripción y guía del proyecto. |
+| Directorio/Archivo | Contenido | Archivos Incluidos |
+| :--- | :--- | :--- |
+| `/docs` | Documentación formal del proyecto y fuentes de referencia. | `Proyecto_Final_Simulación_IEEE.pdf`, `Análisis_fila_espera...pdf` |
+| `/datos` | Datos brutos de campo y distribuciones ajustadas mediante Stat::Fit. | `Datos_Recopilados(Observación).xlsx`, Todos los archivos `.sfpx` |
+| `/promodel` | Archivos fuente del modelo de simulación ProModel. | `Cine_Modelo.mod`, `Cine_Modelo.bak` |
+| `/reportes` | (Vacía, para futuros análisis de resultados o Excel de M/M/S). | (Pendiente) |
+| `README.md` | (Este archivo) Descripción y guía del proyecto. | |
 
 ## 🚀 Resultados Clave
 
