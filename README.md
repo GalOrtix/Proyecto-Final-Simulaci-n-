@@ -28,6 +28,7 @@ El objetivo es identificar cuellos de botella, dimensionar la capacidad de servi
 | `/docs` | Documentación formal del proyecto y fuentes de referencia. | `Proyecto_Final_Simulación_IEEE.pdf`, `Análisis_fila_espera...pdf` |
 | `/datos` | Datos brutos de campo y distribuciones ajustadas mediante Stat::Fit. | `Datos_Recopilados(Observación).xlsx`, Todos los archivos `.sfpx` |
 | `/promodel` | Archivos fuente del modelo de simulación ProModel. | `Cine_Modelo.mod`, `Cine_Modelo.bak` |
+| `/estudio` | Documentación del proyecto desarrollado. | `Proyecto_Final_Simulacion_IEEE.pdf` |
 | `README.md` | (Este archivo) Descripción y guía del proyecto. | |
 
 ## 🚀 Resultados Clave
